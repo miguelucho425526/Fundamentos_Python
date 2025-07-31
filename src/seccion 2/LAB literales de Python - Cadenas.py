@@ -1,0 +1,2 @@
+print("\"Estoy\"\"\"aprendiendo\"\"\"\"\"Python\"\"\"")
+#En esa línea se imprime un texto en pantalla. Se usan comillas dobles escapadas (\") y triples (\"\"\") para incluir comillas dentro de la cadena. El resultado es mostrar la frase con varias comillas alrededor de ciertas palabras.
