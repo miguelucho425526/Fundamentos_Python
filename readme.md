@@ -84,3 +84,17 @@ Laboratorio 1:
 - **Ejercicio 15:**  
     **Resultado:** 5  
     **Explicación:** Exponenciación, multiplicación, división y suma.
+
+    Seccion 4
+
+    Primer Laboratorio:
+    Este bloque de código realiza operaciones básicas con variables que representan la cantidad de manzanas que tienen diferentes personas. A continuación se describen sus funcionalidades:
+
+    - Define variables para almacenar el número de manzanas de John, Mary y Adam.
+    - Imprime en una sola línea la cantidad de manzanas de cada persona.
+    - Calcula el total de manzanas sumando las cantidades individuales y lo imprime.
+    - Introduce nuevas variables (Juan y Ana) y realiza operaciones aritméticas (suma, resta, multiplicación, división y división entera) entre ellas y las variables anteriores.
+    - Imprime los resultados de las operaciones aritméticas, mostrando ejemplos de cómo concatenar texto y variables numéricas usando comas y f-strings en Python.
+
+    Segundo Laboratorio:
+    
