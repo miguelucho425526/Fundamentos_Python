@@ -97,4 +97,7 @@ Laboratorio 1:
     - Imprime los resultados de las operaciones aritméticas, mostrando ejemplos de cómo concatenar texto y variables numéricas usando comas y f-strings en Python.
 
     Segundo Laboratorio:
+    Convierte distancias entre millas y kilómetros usando factores de conversión estándar. Muestra los resultados redondeados a dos decimales.
+
+    Tercer Laboratorio:
     
