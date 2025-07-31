@@ -102,5 +102,21 @@ Laboratorio 1:
     Tercer Laboratorio:
     Este script permite calcular el valor de la variable y a partir de un valor asignado a x, utilizando una expresión matemática específica. El valor de x puede modificarse para probar diferentes resultados. El programa convierte x a tipo float para asegurar el manejo de decimales, realiza el cálculo de y y muestra el resultado en pantalla.
 
-    Cuarto Laboratorio 
+    Cuarto Laboratorio:
+    - Calcula puntaje total de un jugador sumando puntos de tres niveles.
+    - Convierte tiempo jugado (horas, minutos, segundos) a segundos totales.
+    - Suma el daño de tres ataques para obtener daño total.
+    - Suma experiencia de tres misiones para experiencia total.
+    - Calcula porcentaje de vida restante respecto a la vida máxima.
+    - Suma oro recolectado en tres misiones para oro total.
+    - Calcula velocidad promedio dividiendo distancia entre tiempo.
+    - Suma el costo de tres mejoras para obtener el costo total.
+    - Calcula tiempo restante de una misión restando tiempo transcurrido.
+    - Calcula nivel promedio de un equipo de tres jugadores.
+    - Calcula daño crítico multiplicando daño base por multiplicador crítico.
+    - Convierte minutos jugados a horas y minutos.
+    - Calcula porcentaje de misiones completadas respecto al total.
+    - Suma el costo de tres objetos comprados en tienda.
+    - Calcula tiempo promedio de tres partidas.
+    - Calcula porcentaje de enemigos derrotados respecto al total.
 
