@@ -100,4 +100,7 @@ Laboratorio 1:
     Convierte distancias entre millas y kilómetros usando factores de conversión estándar. Muestra los resultados redondeados a dos decimales.
 
     Tercer Laboratorio:
-    
+    Este script permite calcular el valor de la variable y a partir de un valor asignado a x, utilizando una expresión matemática específica. El valor de x puede modificarse para probar diferentes resultados. El programa convierte x a tipo float para asegurar el manejo de decimales, realiza el cálculo de y y muestra el resultado en pantalla.
+
+    Cuarto Laboratorio 
+
